@@ -24,6 +24,9 @@
 		"3000": {
 			"label": "Hello Remote World",
 			"onAutoForward": "notify"
+		},
+		"3300": {
+			"label": "qwert"
 		}
 	},
 
